@@ -8,5 +8,7 @@ La idea es asentar el conocimiento aprendido utilizando solo Vanilla Javascript.
 
 Para utilizar:
 *Clonar el repositorio
+
 *npm install
+
 *npm run dev
