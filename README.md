@@ -9,8 +9,8 @@ https://github.com/user-attachments/assets/f124830e-8c73-4549-a620-43a3da9e4fa1
 
 To use:
 
-Clone the repository
+• Clone the repository
 
-Run npm install
+• Run npm install
 
-Run npm run dev
+• Run npm run dev
