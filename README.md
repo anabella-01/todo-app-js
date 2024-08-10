@@ -4,7 +4,8 @@ I applied concepts from documentation using JSDocs, DOM manipulation, localStora
 I worked with classes and object destructuring. The goal is to reinforce the knowledge I've gained by using only Vanilla JavaScript.
 
 
-https://github.com/user-attachments/assets/23ab30f9-082a-4ff3-a505-3a013d78b774
+https://github.com/user-attachments/assets/f124830e-8c73-4549-a620-43a3da9e4fa1
+
 
 To use:
 
