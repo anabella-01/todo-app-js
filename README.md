@@ -1,15 +1,15 @@
-Hola! 
-En este ejercicio utilice recursos brindados por el docente, para construir el html y css de la aplicación(no fueron hechos por mi,
-aunque mas adelante me gustaría una versión actualizada con React o Astro y Tailwind). Me dedique a enfocar mi atención en
-la lógica del ejercicio, distribución de componentes y la estructura de los mismos. 
-Se aplicaron conceptos desde documentación de funciones utilizando JSDOCS, manejo del DOM, localStorage y SessionStorage.
-Trabajo con clases, desestructuración de objetos. 
-La idea es asentar el conocimiento aprendido utilizando solo Vanilla Javascript.
+Hello! In this project, I used resources provided by the instructor to build the HTML and CSS for the application (these were not created by me, although I plan to create an updated version using React or Astro with Tailwind in the future).
+I focused my attention on the logic of the exercise, component distribution, and their structure.
+I applied concepts from documentation using JSDocs, DOM manipulation, localStorage and sessionStorage. 
+I worked with classes and object destructuring. The goal is to reinforce the knowledge I've gained by using only Vanilla JavaScript.
 
-Para utilizar:
 
-*Clonar el repositorio
+https://github.com/user-attachments/assets/23ab30f9-082a-4ff3-a505-3a013d78b774
 
-*npm install
+To use:
 
-*npm run dev
+Clone the repository
+
+Run npm install
+
+Run npm run dev
